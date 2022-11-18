@@ -19,7 +19,7 @@ body {
 
 .grid-container {
     display:grid;
-    gap: 10px;
+    gap: 0px;
     grid-template:
     "header" 100px
     "navbar" 50px
