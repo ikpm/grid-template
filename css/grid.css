@@ -43,7 +43,7 @@ body {
 
 .navbar {
     grid-area: navbar;
-    background-color: yellowgreen;
+    background-color: yellow;
 }
 
 .main {
